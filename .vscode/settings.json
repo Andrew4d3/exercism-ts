@@ -1,0 +1,5 @@
+{
+  "eslint.workingDirectories": [
+    { "directory": "./hello-world", "changeProcessCWD": true }
+  ]
+}
