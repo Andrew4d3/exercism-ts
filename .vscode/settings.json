@@ -3,5 +3,8 @@
     { "directory": "./hello-world", "changeProcessCWD": true },
     { "directory": "./two-fer", "changeProcessCWD": true },
     { "directory": "./simple-cipher", "changeProcessCWD": true },
-  ]
+    { "directory": "./resistor-color", "changeProcessCWD": true },
+  ],
+  "js/ts.tsdk.path": "./resistor-color/.yarn/sdks/typescript/lib",
+  "js/ts.tsdk.promptToUseWorkspaceVersion": true
 }
