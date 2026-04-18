@@ -2,5 +2,6 @@
   "eslint.workingDirectories": [
     { "directory": "./hello-world", "changeProcessCWD": true },
     { "directory": "./two-fer", "changeProcessCWD": true },
+    { "directory": "./simple-cipher", "changeProcessCWD": true },
   ]
 }
