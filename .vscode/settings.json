@@ -5,7 +5,7 @@
     { "directory": "./simple-cipher", "changeProcessCWD": true },
     { "directory": "./resistor-color", "changeProcessCWD": true },
     { "directory": "./resistor-color-duo", "changeProcessCWD": true },
+    { "directory": "./resistor-color-trio", "changeProcessCWD": true },
   ],
-  "js/ts.tsdk.path": "./resistor-color/.yarn/sdks/typescript/lib",
-  "js/ts.tsdk.promptToUseWorkspaceVersion": true
+  "js/ts.tsdk.path": "/Users/andrew4d3/.nvm/versions/node/v24.14.1/lib/node_modules/typescript/lib"
 }
